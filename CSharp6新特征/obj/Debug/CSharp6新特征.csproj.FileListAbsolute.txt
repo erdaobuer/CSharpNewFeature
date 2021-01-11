@@ -1,0 +1,6 @@
+E:\VS_WrokSpace\C#\CSharp6新特征\CSharp6新特征\bin\Debug\CSharp6新特征.exe.config
+E:\VS_WrokSpace\C#\CSharp6新特征\CSharp6新特征\bin\Debug\CSharp6新特征.exe
+E:\VS_WrokSpace\C#\CSharp6新特征\CSharp6新特征\bin\Debug\CSharp6新特征.pdb
+E:\VS_WrokSpace\C#\CSharp6新特征\CSharp6新特征\obj\Debug\CSharp6新特征.csproj.CoreCompileInputs.cache
+E:\VS_WrokSpace\C#\CSharp6新特征\CSharp6新特征\obj\Debug\CSharp6新特征.exe
+E:\VS_WrokSpace\C#\CSharp6新特征\CSharp6新特征\obj\Debug\CSharp6新特征.pdb
